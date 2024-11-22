@@ -16,7 +16,7 @@ cd mpishi-blog/api && npm install
 Use code with caution. Learn more
 Configure environment variables:
 
-Create .env files in both client and api directories.
+Create .env files in both client and api folders.
 Add necessary environment variables (e.g., database connection string, secret keys).
 Run the application:
 
